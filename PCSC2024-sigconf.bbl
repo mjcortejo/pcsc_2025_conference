@@ -1,0 +1,127 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{6}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{} and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showURL}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showURL #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[Chu et~al\mbox{.}(2020)]%
+        {chu_multi-agent_2020}
+\bibfield{author}{\bibinfo{person}{Tianshu Chu}, \bibinfo{person}{Jie Wang},
+  \bibinfo{person}{Lara Codecà}, {and} \bibinfo{person}{Zhaojian Li}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Multi-{Agent} {Deep} {Reinforcement} {Learning} for
+  {Large}-{Scale} {Traffic} {Signal} {Control}}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Intelligent
+  Transportation Systems}} \bibinfo{volume}{21}, \bibinfo{number}{3}
+  (\bibinfo{date}{March} \bibinfo{year}{2020}), \bibinfo{pages}{1086--1095}.
+\newblock
+\showISSN{1558-0016}
+\href{https://doi.org/10.1109/TITS.2019.2901791}{doi:\nolinkurl{10.1109/TITS.2019.2901791}}
+\newblock
+\shownote{Conference Name: IEEE Transactions on Intelligent Transportation
+  Systems}.
+
+
+\bibitem[Han et~al\mbox{.}(2024)]%
+        {han_attention_2024}
+\bibfield{author}{\bibinfo{person}{Gengyue Han}, \bibinfo{person}{Xiaohan Liu},
+  \bibinfo{person}{Hao Wang}, \bibinfo{person}{Changyin Dong}, {and}
+  \bibinfo{person}{Yu Han}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{An {Attention} {Reinforcement} {Learning}–{Based}
+  {Strategy} for {Large}-{Scale} {Adaptive} {Traffic} {Signal} {Control}
+  {System}}.
+\newblock \bibinfo{journal}{\emph{Journal of Transportation Engineering, Part
+  A: Systems}} \bibinfo{volume}{150}, \bibinfo{number}{3}
+  (\bibinfo{date}{March} \bibinfo{year}{2024}), \bibinfo{pages}{04024001}.
+\newblock
+\showISSN{2473-2907, 2473-2893}
+\href{https://doi.org/10.1061/JTEPBS.TEENG-8261}{doi:\nolinkurl{10.1061/JTEPBS.TEENG-8261}}
+
+
+\bibitem[Mousavi et~al\mbox{.}(2017)]%
+        {mousavi2017traffic}
+\bibfield{author}{\bibinfo{person}{Seyed~Sajad Mousavi},
+  \bibinfo{person}{Michael Schukat}, {and} \bibinfo{person}{Enda Howley}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Traffic light control using deep policy-gradient
+  and value-function-based reinforcement learning}.
+\newblock \bibinfo{journal}{\emph{IET Intelligent Transport Systems}}
+  \bibinfo{volume}{11}, \bibinfo{number}{7} (\bibinfo{year}{2017}),
+  \bibinfo{pages}{417--423}.
+\newblock
+
+
+\bibitem[Nishi et~al\mbox{.}(2018)]%
+        {nishi_traffic_2018}
+\bibfield{author}{\bibinfo{person}{Tomoki Nishi}, \bibinfo{person}{Keisuke
+  Otaki}, \bibinfo{person}{Keiichiro Hayakawa}, {and}
+  \bibinfo{person}{Takayoshi Yoshimura}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Traffic {Signal} {Control} {Based} on
+  {Reinforcement} {Learning} with {Graph} {Convolutional} {Neural} {Nets}}. In
+  \bibinfo{booktitle}{\emph{2018 21st {International} {Conference} on
+  {Intelligent} {Transportation} {Systems} ({ITSC})}}.
+  \bibinfo{pages}{877--883}.
+\newblock
+\href{https://doi.org/10.1109/ITSC.2018.8569301}{doi:\nolinkurl{10.1109/ITSC.2018.8569301}}
+\newblock
+\shownote{ISSN: 2153-0017}.
+
+
+\bibitem[Tang et~al\mbox{.}(2020)]%
+        {tang2020semi}
+\bibfield{author}{\bibinfo{person}{Jing Tang}, \bibinfo{person}{Xin Wei},
+  \bibinfo{person}{Jialin Zhao}, {and} \bibinfo{person}{Yun Gao}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Semi-supervised double duelling broad reinforcement
+  learning in support of traffic service in smart cities}.
+\newblock \bibinfo{journal}{\emph{IET Intelligent Transport Systems}}
+  \bibinfo{volume}{14}, \bibinfo{number}{10} (\bibinfo{year}{2020}),
+  \bibinfo{pages}{1278--1285}.
+\newblock
+
+
+\bibitem[Wan and Hwang(2018)]%
+        {wan2018value}
+\bibfield{author}{\bibinfo{person}{Chia-Hao Wan} {and}
+  \bibinfo{person}{Ming-Chorng Hwang}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Value-based deep reinforcement learning for
+  adaptive isolated intersection signal control}.
+\newblock \bibinfo{journal}{\emph{IET Intelligent Transport Systems}}
+  \bibinfo{volume}{12}, \bibinfo{number}{9} (\bibinfo{year}{2018}),
+  \bibinfo{pages}{1005--1010}.
+\newblock
+
+
+\end{thebibliography}

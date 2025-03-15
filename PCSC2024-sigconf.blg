@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: PCSC2024-sigconf.aux
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+The style file: ACM-Reference-Format.bst
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Database file #1: myreferences.bib
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Warning--empty publisher in nishi_traffic_2018
+Warning--empty address in nishi_traffic_2018
+You've used 6 entries,
+            6056 wiz_defined-function locations,
+            1531 strings with 19670 characters,
+and the built_in function-call counts, 7963 in all, are:
+= -- 1201
+> -- 226
+< -- 0
++ -- 78
+- -- 74
+* -- 552
+:= -- 702
+add.period$ -- 32
+call.type$ -- 6
+change.case$ -- 46
+chr.to.int$ -- 6
+cite$ -- 8
+duplicate$ -- 660
+empty$ -- 457
+format.name$ -- 98
+if$ -- 2048
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 25
+newline$ -- 95
+num.names$ -- 42
+pop$ -- 222
+preamble$ -- 1
+purify$ -- 94
+quote$ -- 0
+skip$ -- 246
+stack$ -- 0
+substring$ -- 644
+swap$ -- 87
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 110
+warning$ -- 2
+while$ -- 38
+width$ -- 0
+write$ -- 160
+(There were 2 warnings)

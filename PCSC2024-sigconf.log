@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.12)  14 MAR 2025 20:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.12)  17 MAR 2025 17:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1023,44 +1023,65 @@ Package hyperref Warning: Option `pdfdisplaydoctitle' has already been used,
 [1.1{C:/Users/Jet/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_mmutss.enc}{C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_afusau.enc}{C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}
 
 {C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/inconsolata/i4-t1-4.enc}]
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 9.0pt on input line 86.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \vbox (badness 1137) has occurred while \output is active []
 
 
 
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 109.
-[2.2]
+(Font)              scaled to size 9.0pt on input line 117.
+[2.2{C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_7grukw.enc}]
+<figures/cctv_frame_mask.png, id=145, 1304.875pt x 870.25125pt>
+File: figures/cctv_frame_mask.png Graphic file (type png)
+<use figures/cctv_frame_mask.png>
+Package pdftex.def Info: figures/cctv_frame_mask.png  used on input line 137.
+(pdftex.def)             Requested size: 108.3942pt x 72.26402pt.
+LaTeX Font Info:    Font shape `T1/zi4/b/n' will be
+(Font)              scaled to size 9.0pt on input line 139.
+
+
+
+
+[3.3 <./figures/cctv_frame_mask.png>]
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 114.
+(Font)              scaled to size 9.0pt on input line 167.
 
 
 ) (PCSC2024-sigconf.bbl
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 7.0pt on input line 47.
-)
 
-[3.3{C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_7grukw.enc}] (PCSC2024-sigconf.aux)
+
+[4.4])
+
+
+
+[5.5
+
+] (PCSC2024-sigconf.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `PCSC2024-sigconf.out' has not changed.
-(rerunfilecheck)             Checksum: CD415124C98E3AC02F6008B7EB2B0582;3295.
+(rerunfilecheck)             Checksum: A42A0718F7792285C11176FBE0DC4CE2;3262.
  ) 
 Here is how much of TeX's memory you used:
- 20662 strings out of 473522
- 334829 string characters out of 5715577
- 760901 words of memory out of 5000000
- 42957 multiletter control sequences out of 15000+600000
- 728003 words of font info for 381 fonts, out of 8000000 for 9000
+ 20751 strings out of 473522
+ 336565 string characters out of 5715577
+ 761049 words of memory out of 5000000
+ 43003 multiletter control sequences out of 15000+600000
+ 738068 words of font info for 399 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 90i,11n,131p,1297b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Jet\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0900.pk><C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb><C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinBiolinumT.pfb><C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinBiolinumTB.pfb><C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinBiolinumTI.pfb><C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineT.pfb><C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTI.pfb>
-Output written on PCSC2024-sigconf.pdf (3 pages, 452072 bytes).
+ 90i,12n,131p,1297b,716s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Jet\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0900.pk><C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/type1/public/inconsolata/Inconsolata-zi4b.pfb><C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb><C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/LibertineMathMI.pfb><C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/LibertineMathMI7.pfb><C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinBiolinumT.pfb><C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinBiolinumTB.pfb><C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinBiolinumTI.pfb><C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineT.pfb><C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTI.pfb><C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/Jet/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb>
+Output written on PCSC2024-sigconf.pdf (5 pages, 2358628 bytes).
 PDF statistics:
- 194 PDF objects out of 1000 (max. 8388607)
- 38 named destinations out of 1000 (max. 500000)
- 97973 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 263 PDF objects out of 1000 (max. 8388607)
+ 60 named destinations out of 1000 (max. 500000)
+ 102586 words of extra memory for PDF output out of 106986 (max. 10000000)
 

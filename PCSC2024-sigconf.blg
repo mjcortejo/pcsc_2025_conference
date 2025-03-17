@@ -14,47 +14,52 @@ Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
 Reallocating 'global_strs' (item size: 1) to 4000000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Warning--empty institution in drew1968traffic
+Warning--no journal in lansdowne_multi-agent_2006
+Warning--no number and no volume in lansdowne_multi-agent_2006
+Warning--page numbers missing in both pages and numpages fields in lansdowne_multi-agent_2006
+Warning--empty address in Lindsey2002
 Warning--empty publisher in nishi_traffic_2018
 Warning--empty address in nishi_traffic_2018
-You've used 6 entries,
+You've used 11 entries,
             6056 wiz_defined-function locations,
-            1531 strings with 19670 characters,
-and the built_in function-call counts, 7963 in all, are:
-= -- 1201
-> -- 226
+            1564 strings with 20331 characters,
+and the built_in function-call counts, 12478 in all, are:
+= -- 1778
+> -- 325
 < -- 0
-+ -- 78
-- -- 74
-* -- 552
-:= -- 702
-add.period$ -- 32
-call.type$ -- 6
-change.case$ -- 46
-chr.to.int$ -- 6
-cite$ -- 8
-duplicate$ -- 660
-empty$ -- 457
-format.name$ -- 98
-if$ -- 2048
++ -- 105
+- -- 116
+* -- 826
+:= -- 1157
+add.period$ -- 60
+call.type$ -- 11
+change.case$ -- 74
+chr.to.int$ -- 11
+cite$ -- 18
+duplicate$ -- 1090
+empty$ -- 758
+format.name$ -- 144
+if$ -- 3116
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 25
-newline$ -- 95
-num.names$ -- 42
-pop$ -- 222
+missing$ -- 34
+newline$ -- 139
+num.names$ -- 77
+pop$ -- 362
 preamble$ -- 1
-purify$ -- 94
+purify$ -- 160
 quote$ -- 0
-skip$ -- 246
+skip$ -- 408
 stack$ -- 0
-substring$ -- 644
-swap$ -- 87
+substring$ -- 1004
+swap$ -- 126
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 110
-warning$ -- 2
-while$ -- 38
+type$ -- 232
+warning$ -- 7
+while$ -- 78
 width$ -- 0
-write$ -- 160
-(There were 2 warnings)
+write$ -- 258
+(There were 7 warnings)

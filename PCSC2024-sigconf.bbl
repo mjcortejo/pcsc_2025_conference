@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{6}
+\begin{thebibliography}{11}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -54,6 +54,15 @@
   Systems}.
 
 
+\bibitem[Drew(1968)]%
+        {drew1968traffic}
+\bibfield{author}{\bibinfo{person}{Donald~R Drew}.}
+  \bibinfo{year}{1968}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Traffic flow theory and control}}.
+\newblock \bibinfo{type}{{T}echnical {R}eport}.
+\newblock
+
+
 \bibitem[Han et~al\mbox{.}(2024)]%
         {han_attention_2024}
 \bibfield{author}{\bibinfo{person}{Gengyue Han}, \bibinfo{person}{Xiaohan Liu},
@@ -70,6 +79,26 @@
 \href{https://doi.org/10.1061/JTEPBS.TEENG-8261}{doi:\nolinkurl{10.1061/JTEPBS.TEENG-8261}}
 
 
+\bibitem[Lansdowne(2006)]%
+        {lansdowne_multi-agent_2006}
+\bibfield{author}{\bibinfo{person}{Andy Lansdowne}.}
+  \bibinfo{year}{2006}\natexlab{}.
+\newblock \showarticletitle{Multi-{Agent} {Traffic} {Simulation}}.
+\newblock  (\bibinfo{year}{2006}).
+\newblock
+
+
+\bibitem[Lindsey and Verhoef(2002)]%
+        {Lindsey2002}
+\bibfield{author}{\bibinfo{person}{R. Lindsey} {and} \bibinfo{person}{E.
+  Verhoef}.} \bibinfo{year}{2002}\natexlab{}.
+\newblock \showarticletitle{Congestion Modelling}.
+\newblock In \bibinfo{booktitle}{\emph{Handbook of Transport Modelling}
+  (\bibinfo{edition}{1st reprint 2002} ed.)}. \bibinfo{publisher}{Pergamon},
+  \bibinfo{pages}{377--397}.
+\newblock
+
+
 \bibitem[Mousavi et~al\mbox{.}(2017)]%
         {mousavi2017traffic}
 \bibfield{author}{\bibinfo{person}{Seyed~Sajad Mousavi},
@@ -81,6 +110,21 @@
   \bibinfo{volume}{11}, \bibinfo{number}{7} (\bibinfo{year}{2017}),
   \bibinfo{pages}{417--423}.
 \newblock
+
+
+\bibitem[Newman(2011)]%
+        {newman_complex_2011}
+\bibfield{author}{\bibinfo{person}{M.~E.~J. Newman}.}
+  \bibinfo{year}{2011}\natexlab{}.
+\newblock \showarticletitle{Complex {Systems}: {A} {Survey}}.
+\newblock \bibinfo{journal}{\emph{American Journal of Physics}}
+  \bibinfo{volume}{79}, \bibinfo{number}{8} (\bibinfo{date}{Aug.}
+  \bibinfo{year}{2011}), \bibinfo{pages}{800--810}.
+\newblock
+\showISSN{0002-9505, 1943-2909}
+\href{https://doi.org/10.1119/1.3590372}{doi:\nolinkurl{10.1119/1.3590372}}
+\newblock
+\shownote{arXiv:1112.1440 [cond-mat, physics:physics]}.
 
 
 \bibitem[Nishi et~al\mbox{.}(2018)]%
@@ -121,6 +165,17 @@
 \newblock \bibinfo{journal}{\emph{IET Intelligent Transport Systems}}
   \bibinfo{volume}{12}, \bibinfo{number}{9} (\bibinfo{year}{2018}),
   \bibinfo{pages}{1005--1010}.
+\newblock
+
+
+\bibitem[Wirtz(2004)]%
+        {wirtz2004using}
+\bibfield{author}{\bibinfo{person}{John~James Wirtz}.}
+  \bibinfo{year}{2004}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Using simulation to test traffic incident
+  management strategies: Illustrating the benefits of pre-planning}}.
+\newblock \bibinfo{thesistype}{Ph.\,D. Dissertation}.
+  \bibinfo{school}{Northwestern University}.
 \newblock
 
 
